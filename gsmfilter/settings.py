@@ -25,7 +25,7 @@ SECRET_KEY = '$t$d%h2*9m5)cf^2n=i8l%n=x5+8@bjg8i0#!u7)ri!r2r)5+i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://phonefilterapp.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['phonefilterapp.herokuapp.com', 'localhost']
 
 
 # Application definition
